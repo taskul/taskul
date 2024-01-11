@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing a video game in Unreal Engine. This will be a first person horror game.
-- 🌱 I’m currently learning web development with Express, Node.js and React
-- ⚡ Fun fact: I've been doing bodybuilding for 20 years and have done some competitions. 
+- 🔭 I’m currently working on developing a video game in Unreal Engine. This will be a first-person horror game.
+- 🌱 I’m currently learning web development with Express, Node.js, and React
+- ⚡ Fun fact: I have two cats
 
 <!--
 **tastasterone/tastasterone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
